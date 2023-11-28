@@ -21,6 +21,8 @@ The data should be displayed like with cheque box so when the user clicks the ch
 
 And has come to the edit task so in that edit task there is a edit button if the user click the edit button it will display to edit task name and description and priority based on the user he can change after if we click the save button it will save in the local storage so we have update reagain for local storage that all the tasks.
 
+And also if the user gives the description more so I utilised css style Overflow property as a value auto so when the description is more we can scroll and we can see that description.
+
 ## Styling
 I utilized CSS styles.
 
