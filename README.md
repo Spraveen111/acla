@@ -30,8 +30,19 @@ I utilized functional COmponents and react hooks like useState,useEffect.
 ## Routing
 I utilized react router for navigating one page to another page.
 
+## images Links
 
+AddTask page
+1.![image](https://github.com/Spraveen111/acla/assets/121080561/193b96b0-e895-48aa-86d2-2951ed669d5c)
 
+TaskList page:
+2.![image](https://github.com/Spraveen111/acla/assets/121080561/87559d19-54d7-4581-9767-cd53f43523ee)
+
+EditTask Page:
+3.![image](https://github.com/Spraveen111/acla/assets/121080561/a25a6f6e-f9d8-4b3c-b3fb-d1d7abde63d4)
+
+EditTask page save :
+4.![image](https://github.com/Spraveen111/acla/assets/121080561/c3e3b3a0-d72a-4e5e-9051-213d3c5e41b6)
 
 
 
