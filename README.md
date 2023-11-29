@@ -32,6 +32,9 @@ I utilized functional COmponents and react hooks like useState,useEffect.
 ## Routing
 I utilized react router for navigating one page to another page.
 
+## Additional Features
+I was implemented sorting based on priority we can get the tasks names.
+
 ## images Links
 
 AddTask page
