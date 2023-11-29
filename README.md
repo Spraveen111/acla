@@ -38,7 +38,8 @@ AddTask page
 1.![image](https://github.com/Spraveen111/acla/assets/121080561/193b96b0-e895-48aa-86d2-2951ed669d5c)
 
 TaskList page:
-2.![Uploading image.png…]()
+2.![image](https://github.com/Spraveen111/acla/assets/121080561/cd180a2b-0adb-49b2-8a9a-f022a7c6e2b4)
+
 
 
 EditTask Page:
